@@ -6,4 +6,6 @@ Meu nome é  **_Pedro Henrique Matos de Souza_** tenho 15 anos e estudo na __ETE
 
 ##Habilidades:
 
-
+*Ser proativo;
+*Trabalhar vem em equipe;
+*Liderança (caso necessário)
