@@ -15,12 +15,17 @@ __Resumo Profissional__:
 * Esforçado;
 * Trabalhar bem em equipe;
 * Liderança (caso necessário)
-* Conhecimento em _design digital_
-* Conhecimento em linguagens de computação (_JavaScripit_, _HTML_, _CSS_.)
+
 
 ## __Idiomas__:
 
 * Português (nativo)
 * Inglês (avançado)
+
+## Habilidades técnicas 
+
+*Linguagens de programação: HTML, JavaScript, CSS;
+*Banco de Dados: Access, SQL;
+*Desenvolvimento de aplicações web e móveis.
 
 
