@@ -2,4 +2,4 @@
 
 ## Sobre mim
 
-Meu nome é _Pedro Henrique Matos de Souza_
+Meu nome é  **_Pedro Henrique Matos de Souza_**
