@@ -24,8 +24,8 @@ __Resumo Profissional__:
 
 ## Habilidades técnicas 
 
-*Linguagens de programação: HTML, JavaScript, CSS;
-*Banco de Dados: Access, SQL;
-*Desenvolvimento de aplicações web e móveis.
+* Linguagens de programação: HTML, JavaScript, CSS;
+* Banco de Dados: Access, SQL;
+* Desenvolvimento de aplicações web e móveis.
 
 
