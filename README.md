@@ -22,4 +22,5 @@ __Resumo Profissional__:
 
 * Português (nativo)
 * Inglês (avançado)
-  
+
+
